@@ -1,0 +1,31 @@
+<control>
+default_path=\TMKD_Kick5_Sorrow\WAV\
+
+<group>
+key=35
+seq_length=6
+loop_mode=one_shot
+
+<region>
+sample=TMKD05 - sorrow_kick_01.wav
+seq_position=1
+
+<region>
+sample=TMKD05 - sorrow_kick_02.wav
+seq_position=2
+
+<region>
+sample=TMKD05 - sorrow_kick_03.wav
+seq_position=3
+
+<region>
+sample=TMKD05 - sorrow_kick_04.wav
+seq_position=4
+
+<region>
+sample=TMKD05 - sorrow_kick_05.wav
+seq_position=5
+
+<region>
+sample=TMKD05 - sorrow_kick_06.wav
+seq_position=6
