@@ -1,10 +1,15 @@
+<global>
+key=35
+loop_mode=one_shot
+
 <control>
-default_path=\TMKD_Kick2_Darkness\WAV\
+default_path=TMKD_Kick2_Darkness\WAV\
+
+// Cycle through 1-2-3 or 4-5-6, randomly, so no hit repeats twice in a row and there's no audible 6-length cycle to it, either.
 
 <group>
-key=35
-seq_length=6
-loop_mode=one_shot
+seq_length=3
+hirand=0.5
 
 <region>
 sample=TMKD02 - darkness_kick_01.wav
@@ -18,14 +23,19 @@ seq_position=2
 sample=TMKD02 - darkness_kick_03.wav
 seq_position=3
 
+
+<group>
+seq_length=3
+lorand=0.5
+
 <region>
 sample=TMKD02 - darkness_kick_04.wav
-seq_position=4
+seq_position=1
 
 <region>
 sample=TMKD02 - darkness_kick_05.wav
-seq_position=5
+seq_position=2
 
 <region>
 sample=TMKD02 - darkness_kick_06.wav
-seq_position=6
+seq_position=3
