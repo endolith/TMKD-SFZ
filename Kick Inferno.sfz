@@ -20,17 +20,18 @@ sample=TMKD01 - inferno_kick_02.wav
 seq_position=2
 
 <region>
-sample=TMKD01 - inferno_kick_03.wav // stop at 1.3 seconds
+sample=TMKD01 - inferno_kick_03.wav
 seq_position=3
-
+end=58161  // Hide thump at 1.3 seconds
 
 <group>
 seq_length=3
 lorand=0.5
 
 <region>
-sample=TMKD01 - inferno_kick_04.wav  // stop at 0.85 seconds
+sample=TMKD01 - inferno_kick_04.wav
 seq_position=1
+end=38588  // Hide thump at 0.85 seconds
 
 <region>
 sample=TMKD01 - inferno_kick_05.wav
