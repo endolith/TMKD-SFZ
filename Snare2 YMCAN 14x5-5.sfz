@@ -24,6 +24,11 @@ sample=YMCAN14x5.5_DYNAMICS\TMKD_SnareYMCAN_dyn_L1_02.wav
 hivel=16
 seq_position=2
 
+<region>
+sample=YMCAN14x5.5_DYNAMICS\TMKD_SnareYMCAN_dyn_L1_03.wav
+hivel=16
+seq_position=3
+
 
 <region>
 sample=YMCAN14x5.5_DYNAMICS\TMKD_SnareYMCAN_dyn_L2_01.wav
@@ -37,6 +42,12 @@ lovel=17
 hivel=32
 seq_position=2
 
+<region>
+sample=YMCAN14x5.5_DYNAMICS\TMKD_SnareYMCAN_dyn_L2_03.wav
+lovel=17
+hivel=32
+seq_position=3
+
 
 <region>
 sample=YMCAN14x5.5_DYNAMICS\TMKD_SnareYMCAN_dyn_L3_01.wav
@@ -49,6 +60,12 @@ sample=YMCAN14x5.5_DYNAMICS\TMKD_SnareYMCAN_dyn_L3_02.wav
 lovel=33
 hivel=48
 seq_position=2
+
+<region>
+sample=YMCAN14x5.5_DYNAMICS\TMKD_SnareYMCAN_dyn_L3_03.wav
+lovel=33
+hivel=48
+seq_position=3
 
 
 <region>
