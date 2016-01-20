@@ -1,8 +1,6 @@
-These are soundfont files for the free samples from 
+These are soundfont files for the free samples from [The Metal Kick Drum](http://www.themetalkickdrum.com/free_stuff.html).
 
-http://www.themetalkickdrum.com/free_stuff.html
-
-They are also free to use for whatever purpose.
+The SFZ files are free to use for whatever purpose.
 
 MIDI map:
 
