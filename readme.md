@@ -13,3 +13,5 @@ MIDI map:
 - 45 Rack tom 10"
 
 TODO: Velocity transitions are not smooth
+
+Disclaimer: I am not a drummer
